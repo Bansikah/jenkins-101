@@ -1,2 +1,1 @@
-
-print("Hello world From Tech With Bansikah")
+print("Hello from Tech With Bansikah")
